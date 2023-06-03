@@ -20,4 +20,4 @@ Digital image processing involves the manipulation, analysis, and enhancement of
 To get started with this lecture, simply clone this repository:
 
 ```bash
-git clone https://github.com/your-rishuvro/introduction-to-digital-image-processing.git
+git clone https://github.com/your-rishuvro/Image_Processing.git
